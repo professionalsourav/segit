@@ -9,6 +9,7 @@ function App() {
   return (
     <>
        <h1 style={{color:"red", background:"blue", textAlign:"center"}}>hello</h1>
+       <p>yaaad a raha haii tera pyaar</p>
     </>
   )
 }
