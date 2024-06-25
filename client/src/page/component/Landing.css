@@ -1,0 +1,15 @@
+.landingheader{
+    text-align: center;
+}
+
+.landingcontainer{
+    margin: 5%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+div.landinghello{
+    color: aqua;
+    font-size: 1.5rem;
+}

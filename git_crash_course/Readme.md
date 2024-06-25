@@ -57,3 +57,33 @@ by using this command we will get to know detailed knowledge regarding code push
 ```
 git log
 ```
+
+## git clone
+
+there are three way we can clone the repo
+1.https
+2.ssh
+3. GITHUB cli
+
+ ## 1. HTTPS
+
+
+first we have create a folder for cloneing repo
+
+```
+mkdir git_cloning_using
+```
+then 
+```
+cd git_cloning_using
+```
+ here the command will be 
+
+ ```
+git clone https://github.com/professionalsourav/segit.git
+```
+
+then open it using command:-
+```
+code .
+```
